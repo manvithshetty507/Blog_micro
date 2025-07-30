@@ -1,0 +1,14 @@
+[
+  {
+    "postId": "8aed5785-6656-4a09-9792-4066230305fe",
+    "comment": {
+      "text": "This is a comment"
+    }
+  },
+  {
+    "postId": "8aed5785-6656-4a09-9792-4066230305fe",
+    "comment": {
+      "text": "This is a 2nd comment"
+    }
+  }
+]

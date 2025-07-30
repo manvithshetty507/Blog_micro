@@ -1,0 +1,31 @@
+.postTitle {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.postContent {
+  font-size: 16px;
+  line-height: 1.5;
+}
+.postForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.createPostButton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.create-post-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
